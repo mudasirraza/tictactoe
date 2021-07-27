@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  index_num: 1
+  user: a
+
+two:
+  index_num: 2
+  user: b
+
+three:
+  index_num: 3
+  user: a
+
+four:
+  index_num: 4
+  user: b
+
+five:
+  index_num: 5
+  user: a
